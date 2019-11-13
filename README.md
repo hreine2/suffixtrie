@@ -1,3 +1,3 @@
 # suffixtrie
 
-testing testing uh
+testing testing
